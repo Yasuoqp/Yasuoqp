@@ -13,4 +13,14 @@
 <a href="https://learn.javascript.ru/" target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/python.svg' alt="py"> </a>
 <a href="https://learn.javascript.ru/" target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/HTML5.svg' alt="html"> </a>
 <a href="https://learn.javascript.ru/" target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/CSS3.svg' alt="css"> </a>
-
+## Инструменты:
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/WebStorm.svg' alt="wb"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/PyCharm.svg' alt="pc"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/git.svg' alt="git"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/Ubuntu.svg' alt="ub"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/flat_linux.svg' alt="linux"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/postman.svg' alt="pm"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/nginx.svg' alt="ng"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/jquery.svg' alt="jq"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/redux.svg' alt="re"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/django.svg' alt="re"> </a>
