@@ -17,7 +17,7 @@
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/WebStorm.svg' alt="wb"> </a>
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/PyCharm.svg' alt="pc"> </a>
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/git.svg' alt="git"> </a>
-<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/ubuntu.svg' alt="ub"> </a>
+<a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/ubuntu1.svg' alt="ub"> </a>
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/flat_linux.svg' alt="linux"> </a>
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/postman.svg' alt="pm"> </a>
 <a  target="blank"><img height="40" width="40" src='https://github.com/Yasuoqp/Yasuoqp/blob/main/icon/nginx.svg' alt="ng"> </a>
